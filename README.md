@@ -42,8 +42,8 @@ A cross-platform personal portfolio application built with Flutter, designed to 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
-   cd your-portfolio-repo
+   git clone https://github.com/2810yash/Yash_Wairagade.git
+   cd Yash_Wairagade
    ```
 2. **Install dependencies:**
    ```bash
