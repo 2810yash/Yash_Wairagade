@@ -13,13 +13,13 @@ A cross-platform personal portfolio application built with Flutter, designed to 
 - **Firebase Integration**: Uses Firebase for project data and image hosting.
 - **Custom Animations**: Lottie and custom animated widgets.
 
-## Screenshots
+<!-- ## Screenshots
 
 > Add your screenshots here (e.g. from `assets/images/` or `assets/project_images/`):
 >
 > ![Main Page](assets/images/main_mobile.png)
 > ![Profile](assets/images/profile.jpg)
-> ![Project Example](assets/project_images/prj1.png)
+> ![Project Example](assets/project_images/prj1.png) -->
 
 ## Tech Stack
 
